@@ -1,0 +1,51 @@
+[
+  {
+    "Id": "1",
+    "name": "Engineering",
+    "description": "Software development and technical architecture",
+    "managerId": "1",
+    "employeeCount": 2
+  },
+  {
+    "Id": "2",
+    "name": "Product",
+    "description": "Product strategy and management",
+    "managerId": "2",
+    "employeeCount": 1
+  },
+  {
+    "Id": "3",
+    "name": "Design",
+    "description": "User experience and interface design",
+    "managerId": "3",
+    "employeeCount": 1
+  },
+  {
+    "Id": "4",
+    "name": "Marketing",
+    "description": "Brand management and customer acquisition",
+    "managerId": "4",
+    "employeeCount": 1
+  },
+  {
+    "Id": "5",
+    "name": "Human Resources",
+    "description": "Employee relations and organizational development",
+    "managerId": "6",
+    "employeeCount": 1
+  },
+  {
+    "Id": "6",
+    "name": "Sales",
+    "description": "Revenue generation and customer relationships",
+    "managerId": "7",
+    "employeeCount": 1
+  },
+  {
+    "Id": "7",
+    "name": "Finance",
+    "description": "Financial planning and analysis",
+    "managerId": "8",
+    "employeeCount": 1
+  }
+]
