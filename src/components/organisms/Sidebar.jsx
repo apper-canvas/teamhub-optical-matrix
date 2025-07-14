@@ -4,13 +4,13 @@ import ApperIcon from "@/components/ApperIcon";
 import { cn } from "@/utils/cn";
 
 const Sidebar = ({ isOpen, onClose, className, ...props }) => {
-  const navigation = [
+const navigation = [
     { name: "Dashboard", href: "/", icon: "LayoutDashboard" },
     { name: "Employees", href: "/employees", icon: "Users" },
     { name: "Departments", href: "/departments", icon: "Building" },
     { name: "Leave Management", href: "/leave-management", icon: "Calendar" },
+    { name: "Onboarding", href: "/onboarding", icon: "ClipboardCheck" },
   ];
-
   const sidebarContent = (
     <div className="flex flex-col h-full">
       <div className="flex items-center px-6 py-4 border-b">

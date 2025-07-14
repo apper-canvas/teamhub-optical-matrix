@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete Personal Information Form",
+    "description": "Fill out personal details, emergency contacts, and basic information required for HR records.",
+    "category": "Paperwork",
+    "completed": true,
+    "dueDate": "2024-01-15T00:00:00Z",
+    "priority": "high",
+    "estimatedTime": "30 minutes"
+  },
+  {
+    "Id": 2,
+    "title": "Submit Tax Documents (W-4, I-9)",
+    "description": "Provide necessary tax forms and identification documents for payroll processing.",
+    "category": "Paperwork",
+    "completed": true,
+    "dueDate": "2024-01-15T00:00:00Z",
+    "priority": "high",
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "Id": 3,
+    "title": "Review Employee Handbook",
+    "description": "Read through company policies, procedures, and code of conduct.",
+    "category": "Training",
+    "completed": false,
+    "dueDate": "2024-01-20T00:00:00Z",
+    "priority": "medium",
+    "estimatedTime": "2 hours"
+  },
+  {
+    "Id": 4,
+    "title": "Complete Safety Training",
+    "description": "Attend mandatory workplace safety and emergency procedures training session.",
+    "category": "Training",
+    "completed": false,
+    "dueDate": "2024-01-18T00:00:00Z",
+    "priority": "high",
+    "estimatedTime": "1 hour"
+  },
+  {
+    "Id": 5,
+    "title": "Set Up Email Account",
+    "description": "Configure company email account and set up email client on work devices.",
+    "category": "System Access",
+    "completed": true,
+    "dueDate": "2024-01-16T00:00:00Z",
+    "priority": "high",
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "Id": 6,
+    "title": "Access Company Portal",
+    "description": "Log into the company intranet and familiarize yourself with available resources.",
+    "category": "System Access",
+    "completed": false,
+    "dueDate": "2024-01-17T00:00:00Z",
+    "priority": "medium",
+    "estimatedTime": "30 minutes"
+  },
+  {
+    "Id": 7,
+    "title": "Request Security Badge",
+    "description": "Visit security office to get employee ID badge and building access card.",
+    "category": "System Access",
+    "completed": false,
+    "dueDate": "2024-01-19T00:00:00Z",
+    "priority": "medium",
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "Id": 8,
+    "title": "Complete Compliance Training",
+    "description": "Finish mandatory compliance training modules covering industry regulations.",
+    "category": "Training",
+    "completed": false,
+    "dueDate": "2024-01-25T00:00:00Z",
+    "priority": "medium",
+    "estimatedTime": "3 hours"
+  },
+  {
+    "Id": 9,
+    "title": "Meet with Direct Manager",
+    "description": "Schedule and attend initial meeting with your direct supervisor to discuss role expectations.",
+    "category": "Training",
+    "completed": false,
+    "dueDate": "2024-01-22T00:00:00Z",
+    "priority": "high",
+    "estimatedTime": "1 hour"
+  },
+  {
+    "Id": 10,
+    "title": "Team Introduction Session",
+    "description": "Attend team meeting to meet colleagues and understand team dynamics.",
+    "category": "Training",
+    "completed": false,
+    "dueDate": "2024-01-23T00:00:00Z",
+    "priority": "medium",
+    "estimatedTime": "1 hour"
+  }
+]

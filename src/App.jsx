@@ -5,16 +5,17 @@ import Dashboard from "@/components/pages/Dashboard";
 import Employees from "@/components/pages/Employees";
 import Departments from "@/components/pages/Departments";
 import LeaveManagement from "@/components/pages/LeaveManagement";
-
+import Onboarding from "@/components/pages/Onboarding";
 function App() {
   return (
     <div className="min-h-screen bg-background font-body">
       <Layout>
-        <Routes>
+<Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/employees" element={<Employees />} />
           <Route path="/departments" element={<Departments />} />
           <Route path="/leave-management" element={<LeaveManagement />} />
+          <Route path="/onboarding" element={<Onboarding />} />
         </Routes>
       </Layout>
       <ToastContainer
